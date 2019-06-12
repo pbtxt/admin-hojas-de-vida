@@ -13,6 +13,8 @@ La segunda version de la aplicacion permite:
 3. visualizar las hojas de vida creadas en el repositorio 
 4. navegar entre los diferentes menús
 
+NOTA: la segunda version de la aplicacion corresponde a web2py.app.plantillaHojaDeVida (1).w2p
+
 Integrantes: 
 
 Paola Natasha Becerra Marquez
